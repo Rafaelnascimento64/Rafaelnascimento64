@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Me chamo Rafael Brito tenho 19 anos, sou de São Paulo - SP. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste.
+Me chamo Rafael Brito tenho 19 anos, sou de São Paulo - SP. Atualmente, estou cursando o 3° Semestre de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste.
 Tenho muito gosto por tecnologia e estou sempre em busca de novos conhecimentos, com foco especial na área de backend e desenvolvimento web, mas também possuo conhecimento na área de dados.
 
 
@@ -107,8 +107,7 @@ Meu LinkedIn "[Rafael Brito](https://www.linkedin.com/in/rafael-brito-2336222b5)
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 1px;" 
+    height="175"
     src="https://github-readme-stats.vercel.app/api?username=Rafaelnascimento64&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
   />
 <img 

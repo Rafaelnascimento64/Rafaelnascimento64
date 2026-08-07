@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Me chamo Rafael Brito tenho 20 anos, sou de São Paulo - SP. Atualmente, estou cursando o 4° Semestre de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste.
+Me chamo Rafael Brito tenho 20 anos, sou de São Paulo - SP. Atualmente, estou cursando o 6° Semestre de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Zona Leste.
 Tenho muito gosto por tecnologia e estou sempre em busca de novos conhecimentos, com foco especial na área de backend e desenvolvimento web, mas também possuo conhecimento na área de dados.
 
 
